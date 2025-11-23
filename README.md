@@ -2,6 +2,13 @@
 
 ---
 
+## 🌐 Visualização Online | Live Preview
+
+🚀 [Visualizar o site no GitHub Pages](https://anaelx77.github.io/prompts-manager-nlw/)
+🚀 [View the website on GitHub Pages](https://anaelx77.github.io/prompts-manager-nlw/)
+
+---
+
 # 🇧🇷 **README**
 
 ## 🧠 Sobre o Projeto  
@@ -26,4 +33,4 @@ Ideal para criadores de conteúdo, estudantes, desenvolvedores, social media e q
 ## 🚀 Como Executar  
 1. Baixe ou clone o repositório:  
     ```bash
-    git clone:
+    git clone: https://github.com/Anaelx77/prompts-manager-nlw
